@@ -1,0 +1,33 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  E:/Orcad_16.5_Study/SSD1332_OLED_Module/allegro/SSD1332.brd*
+G04 Film Name:    BOTTOM*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 16.6-P004*
+G04 Origin Date:  Wed Aug 08 05:21:20 2018*
+G04 *
+G04 Layer:  ETCH/BOTTOM*
+G04 Layer:  PIN/BOTTOM*
+G04 Layer:  VIA CLASS/BOTTOM*
+G04 *
+G04 Offset:    (0.000 0.000)*
+G04 Mirror:    No*
+G04 Mode:      Positive*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     0.000*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX35Y35*MOMM*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD10C,1.524*%
+%LPD*%
+G75*
+G54D10*
+X965000Y270000D03*
+X711000D03*
+X1727000D03*
+X1473000D03*
+X1219000D03*
+X2489000D03*
+X2235000D03*
+X1981000D03*
+M02*

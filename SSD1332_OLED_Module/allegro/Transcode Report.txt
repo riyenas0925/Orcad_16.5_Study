@@ -1,0 +1,29 @@
+
+
+   ---- Transcoding 'E:\Orcad_16.5_Study\SSD1332_OLED_Module\allegro\Drill_Draw.art' ----   Wed Aug 08 01:48:58 2018
+
+D10   --> D100
+D11   --> D101
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\Orcad_16.5_Study\SSD1332_OLED_Module\allegro\Silkscreen_Top.art' ----   Wed Aug 08 01:48:58 2018
+
+D10   --> D102
+D11   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\Orcad_16.5_Study\SSD1332_OLED_Module\allegro\Soldermask_Bottom.art' ----   Wed Aug 08 01:48:58 2018
+
+D10   --> D104
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\Orcad_16.5_Study\SSD1332_OLED_Module\allegro\Soldermask_Top.art' ----   Wed Aug 08 01:48:58 2018
+
+D12   --> D105
+D10   --> D106
+D13   --> D107
+D11   --> D108
+-----------------------------------------------------------------

@@ -1,0 +1,26 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : SSD1332.brd                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Aug 08 00:46:48 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 9
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (10.352 1.337)  Net: GND
+	Point on shape: (12.676 1.533)  Net: GND
+	Point on shape: (15.216 1.533)  Net: GND
+	Point on shape: (17.756 1.533)  Net: GND
+	Point on shape: (20.296 1.533)  Net: GND
+	Point on shape: (13.365 3.165)  Net: GND
+	Point on shape: (15.905 3.165)  Net: GND
+	Point on shape: (18.445 3.165)  Net: GND
+	Point on shape: (20.985 3.165)  Net: GND
